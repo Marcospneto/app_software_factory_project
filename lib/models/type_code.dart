@@ -1,0 +1,4 @@
+enum TypeCode {
+  ACTIVATION,
+  RECOVERY
+}
